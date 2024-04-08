@@ -78,11 +78,8 @@ Pivot chart was used to show the trend in sales over time.
 ## Features of the Report:
 The chart conveys information about the following key areas:
 - Revenue
-- Order
-- Product
-- Customer
-- Shipping cost
-- Country
+- Order date(Month,Year)
+- Sales trend
 
 
 
