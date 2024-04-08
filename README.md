@@ -46,9 +46,6 @@ The transformation views are displayed below:
 
 
 
-![Power Pivot](https://github.com/RemedyData/Dahel_Northwind_Traders_Analysis_Internship/assets/137626163/8546a308-e215-428c-81f9-3857f1a07666)
-
-
 ![image](https://github.com/RemedyData/Dahel_Northwind_Traders_Analysis_Internship/assets/137626163/a2f1e549-48f6-4b38-af02-c1f9c6780f38)
 
 
