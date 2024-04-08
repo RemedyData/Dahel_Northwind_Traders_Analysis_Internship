@@ -1,5 +1,5 @@
 # Dahel_Northwind_Traders_Analysis_Internship
-Maven Analytics Challenge: I'm working as a BI Developer for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world (*The picture below is gotten from OutSystems Website*). 
+Dahel and Consultant Techies Internship: I'm working as a data analyst for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world (*The picture below is gotten from OutSystems Website*). 
 
 ![](https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGWJZr_aUfmcmCS7P-ESVEKo=/northwind-db-2023-01-04%2000-00-00-2024-02-26%2009-48-44)
 
@@ -28,7 +28,7 @@ The goal of this analysis is to:
    ---
   ## Data Source:
   
-The dataset for the work is gotten from Maven Analytics while its original source is from Microsoft licensed by Public Domain. It consist of 2,985 records and 28 fields of data. I studied the dataset well and its attached dictionary to gain proper insight into the dataset. You can find a link to download the dataset [here:](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)
+The dataset for the work is gotten from Dahel and Consultant Techies while its original source is from Microsoft licensed by Public Domain. It consist of 2,985 records and 28 fields of data. I studied the dataset well and its attached dictionary to gain proper insight into the dataset. You can find a link to download the dataset [here:](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)
 
    ---
 
@@ -60,9 +60,9 @@ The transformation views are displayed below:
 
 ## Data Modelling:
 
-Tables were automatically joined by creating relationships with them, does this intelligently. However, as someone that understands the dataset and want to get specific insights and information, I had to create other relationships  between the tables and model created using a common key (primary key to foreign key) and measures to enable me derive desirable results. 
+Tables were automatically joined by creating relationships with them as Power Pivot does this intelligently. However, as someone that understands the dataset and want to get specific insights and information, I had to create other relationships  between the tables and model created using a common key (primary key to foreign key) and measures to enable me derive desirable results. 
 
-Below is the is the created model:
+Below is the created model:
 
 
 ![Power Pivot-1](https://github.com/RemedyData/Dahel_Northwind_Traders_Analysis_Internship/assets/137626163/d5b39b39-5142-4566-b2c8-648ebbd04f5b)
