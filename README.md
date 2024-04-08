@@ -86,6 +86,10 @@ The chart conveys information about the following key areas:
 
 
 
+![image](https://github.com/RemedyData/Dahel_Northwind_Traders_Analysis_Internship/assets/137626163/2582a7cc-678d-4e10-b2c7-8ff6df11c5ae)
+
+
+
 ## Analysis
 
 Summary of the insights gained into the company's performance: 
