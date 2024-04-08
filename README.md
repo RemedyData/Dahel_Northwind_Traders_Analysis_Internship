@@ -19,7 +19,51 @@ The goal of this analysis is to:
 
 ## Skills and Concepts Demonstrated:
 
+ - **Microsoft Excel concepts like:**
 
+1 Data Importing and Exporting:
+
+- Importing data from external sources such as text files, CSV files, databases, or other Excel workbooks.
+- Exporting data to different formats for sharing or further analysis.
+
+2 Data Cleaning and Transformation:
+
+- Removing duplicate records.
+- Handling missing values (e.g., filling in missing values, deleting rows with missing data).
+- Converting data types (e.g., converting text to numbers, dates).
+- Splitting, merging, or rearranging data across columns.
+- Power Query by creating new calculated columns.
+
+3 Formulas and Functions:
+
+- Utilizing built-in functions such as SUM, AVERAGE, COUNT, MAX, MIN for basic calculations.
+- Performing more complex calculations using functions like IF, VLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, etc.
+- Creating custom functions using Excel's built-in programming language, Visual Basic for Applications (VBA).
+
+4 Data Analysis Tools:
+
+- PivotTables: Summarizing and analyzing large datasets by creating dynamic tables.
+- Data Tables: Conducting what-if analysis by exploring different scenarios.
+- Solver: Optimizing solutions by finding the best possible outcome based on defined constraints.
+
+5 Statistical Analysis:
+
+- Descriptive statistics: Calculating measures such as mean, median, mode, standard deviation, variance, etc.
+- Correlation analysis: Determining relationships between variables using correlation coefficients.
+- Regression analysis: Analyzing the relationship between dependent and independent variables.
+
+6 Data Validation and Error Checking:
+
+- Implementing data validation rules to ensure data accuracy and consistency.
+- Using Excel's auditing tools to trace precedents and dependents, detect errors, and troubleshoot formulas.
+
+7 Data Presentation and Reporting:
+
+- Formatting worksheets and cells for improved readability.
+- Creating dashboards and reports summarizing key insights.
+- Adding data labels, titles, and annotations to charts and graphs.
+- Inserting images, shapes, and text boxes to enhance presentation.
+ 
 
 
 
