@@ -94,7 +94,17 @@ The transformation views are displayed below:
 
 
 
+
+
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Northwind_Traders_Analysis_Internship/assets/137626163/b04d7de1-5524-4da4-91d9-4382d9cf2098)
+
+
+
+
+
 
 
 ---
