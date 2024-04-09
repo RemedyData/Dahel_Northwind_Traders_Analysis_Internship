@@ -3,7 +3,7 @@ Dahel and Consultant Techies Internship: I'm working as a data analyst for North
 
 ![](https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGWJZr_aUfmcmCS7P-ESVEKo=/northwind-db-2023-01-04%2000-00-00-2024-02-26%2009-48-44)
 
-*Disclaimer: This is not a real company as we know this is a dataset compiled by Meriskill for Internship purposes.*
+*Disclaimer: This is not a real company as we know this is a dataset compiled by Dahel and Consultant Techies for Internship purposes.*
 
 
 ## Introduction
