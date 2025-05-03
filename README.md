@@ -189,4 +189,4 @@ Summary of the insights gained into the company's performance:
 
 I am open for entry-level to mid-level data anlalyst role.
 
-Let us have discussion about your company and industry now!
+Let us have discussion about your company now!
